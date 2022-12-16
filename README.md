@@ -1,5 +1,11 @@
 # SDEV_220_Final_Project_Group3
     The repository set up for the final project of Group 3 for SDEV220.
+    Group Members: Patrick Szpak, Jordy Jordan, Samuel Gest 
+    
+    
+    Final.py file is the finished system for submission. 
+    
+    
+    CurrentProject.py is also the finished system with extra comments regarding changes we made to the code, previous issues, updates, etc. 
 
-    The CurrentProject.py file is the current status of our project. 
-    The other py files are for the functions, buttons, and the previous project state.
+   
